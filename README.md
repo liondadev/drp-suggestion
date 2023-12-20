@@ -55,7 +55,7 @@ Everything before this is a background, this is the proper suggestion in formal 
 - Rework VentzCoin to be more normal
   - Buy racks, connect them together somehow (maybe a VentzCoin controller or something), and collect money over time.
 - Rework or remove MaxNet
-  - This is pretty dificult to do entirely, but MaxNet needs to be heavily nerfed / reworked, or outright removed. The goal is player retention, and newer players won't stay if there's no way to make money. MaxNet powers most of the gun dealerships through auto-dealerships (I've only ever seen two gun dealerships, but I always find dealerships on the side of the road). MaxNet powers most of the big businesses, especially banks. The entire banking system runs on MaxNet ATMs. MaxNet needs to be reworked, nerfed, or removed.
+  - Everything is connected together through a one-of-a-kind system that newer players won't understand. Even after playing for a bit I still don't understand the extent of MaxNet. WireMod is also a very complicated addon, but it's at least used by other people / servers as well.
 - Give normal people WireMod
   - WireMod is pretty awesome, but barely any DarkRP servers support it anymore. Not only would WireMod support bring a niche audience of advanced wiremod users, it would also help compete against MaxNet, or even replace it if MaxNet was fully removed. The only way for good WireMod adoption is to give WireMod to normal peolple.
   - Wiremod is prone to lagging servers, maybe a playtime requirement of a day or something could stop minges. WireMod actions should be logged heavily (maybe even to staff-only or global chat?).
